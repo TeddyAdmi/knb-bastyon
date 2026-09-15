@@ -1,0 +1,9 @@
+{
+  "id": "pocket.rps.app",
+  "name": "КНБ 1 PKOIN",
+  "version": "1.0.0",
+  "author": "PQoPdcQdkqQSqiHxPfsMwnhxW8QAjfTEzs",
+  "description": "Комната КНБ со ставкой 1 PKOIN",
+  "icon": "icon.png",
+  "permissions": ["account", "payment"]
+}
